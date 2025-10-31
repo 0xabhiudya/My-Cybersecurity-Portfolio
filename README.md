@@ -117,7 +117,7 @@ graph TD
     linkStyle 6 stroke:#00cc66,stroke-width:2px;
     linkStyle 7 stroke:#00cc66,stroke-width:2px;
 ```
-
+---
 
 ## 🧱 Phase 2 – Network Defense with pfSense
 
@@ -170,7 +170,7 @@ graph TD
     linkStyle 9 stroke:#00cc66,stroke-width:2px;
 
 ```
-
+---
 
 ## ⚙️ Phase 3 – AppSec + DevSecOps Integration
 
@@ -225,6 +225,8 @@ graph TD
     linkStyle 11 stroke:#00cc66,stroke-width:2px;
 
 ```
+---
+
 ## 🧱 Lab Architecture Diagram (Full 180-Day Evolution)
 
 ```mermaid
@@ -277,3 +279,4 @@ graph TD
     linkStyle 14 stroke:#a020f0,stroke-width:2px
     linkStyle 15 stroke:#00cc66,stroke-width:2px
 ```
+---
