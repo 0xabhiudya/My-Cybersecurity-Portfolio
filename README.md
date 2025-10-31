@@ -57,15 +57,18 @@ I document the wins, the broken configs, and the Zenitsu-level panic moments alo
 **GitHub:** [github.com/0xabhiudya](https://github.com/0xabhiudya)  
 **LinkedIn:** [linkedin.com/in/abhiudya-dwivedi](https://www.linkedin.com/in/abhiudya-dwivedi)
 
-🧭 Architecture Evolution (Phase 1 → 3)
+---
+## 🧭 Architecture Evolution (Phase 1 → 3)
 
 Below diagrams illustrate the 180-day roadmap from a baseline SOC to a fully integrated DevSecOps architecture.
 
-🎨 Color Legend
-Color	Meaning	Example
-🔴 #ff0000	Attack / Threat Paths	Attacker → Victim / Web Exploit
-🟢 #00cc66	Logs / Telemetry / Alerts	Syslog → SIEM → Dashboard
-🔵 #007bff	Infrastructure / Neutral Links	VirtualBox Networks, Firewalls, CI/CD Links
+### 🎨 Color Legend  
+| Color | Meaning | Example | 
+|-------|---------|---------|
+| 🔴 #ff0000 | Attack / Threat Paths | Attacker → Victim / Web Exploit  |
+| 🟢 #00cc66 | Logs / Telemetry / Alerts | Syslog → SIEM → Dashboard  |
+| 🔵 #007bff | Infrastructure / Neutral Links | VirtualBox Networks, Firewalls, CI/CD Links  |
+---
 
 ## 🧩 Phase 1 – SOC & Network Monitoring
 
