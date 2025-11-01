@@ -1,4 +1,4 @@
-# Abhiudya's 180-Day Cybersecurity Portfolio
+# 180-Day Cybersecurity Portfolio
 
 ### M.Sc. Cybersecurity | (ISC)² CC | SOC • AppSec • DevSecOps
 
